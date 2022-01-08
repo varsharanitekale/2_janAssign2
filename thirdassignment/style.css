@@ -1,0 +1,18 @@
+li {
+    list-style: none;
+    text-align: center;
+
+}
+.container{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color:rgb(185, 127, 51);
+}
+button{
+    border:  1px solid red;
+    box-shadow: 1px 2px 4px yellow;
+}
